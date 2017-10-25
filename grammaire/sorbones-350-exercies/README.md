@@ -1,5 +1,5 @@
-# Grammaire #
-## Cours de Civilisation française de la Sorbonne ##
+# Cours de Civilisation française de la Sorbonne #
+## Grammaire ##
 ### 350 exercices - Niveau moyen ###
 
 # Sommaire #
@@ -27,5 +27,7 @@ et plus loin
 *Je trouve dans cette confusion un rien de poésie énigmatique, qui mérite un regard, avant que la prosaïque grammaire ne vienne répandre sa lumière sur chaque phrase reconstituée.*
 
 >Jaques ROBICHEZ
-Professeur émérite à la Sorbonne
-Directeur des Cours de Civilisation française de la Sorbonne
+
+>Professeur émérite à la Sorbonne
+
+>Directeur des Cours de Civilisation française de la Sorbonne
