@@ -5,7 +5,7 @@
 # Sommaire #
 - [Préface](#préface)
 - [Introduction](#introduction)
-- [Chapitre premier]()
+- [Chapitre premier - Les articles](chaptre01.md)
 
 # Préface #
 Cinq professeurs, particulièrement qualifiés, des Cours de Civilisation française de la Sorbonne ont préparé avec le plus grand soin ce cahier d'exercices. Lorsqu'ils l'ont jugé parvenu et ces derniers l'ont utilisé dans leurs classes, avant de présenter aux auteurs les observations que leur suggéraient les réactions de nos étudiants étrangers. Ce livre est donc né d'une réflexion théorique et d'une expérience depuis longtemps et encore tout récemment pratiquée sur le terrain. Le résultat me paraît excellent et je crois qu'il fait honneur à notre établissement.
@@ -48,3 +48,32 @@ Et ce qui concerne le vocabulaire, nous avons veillé à l'utiliser que des term
 Nous souhaitons que ce manuel soit un instrument de travail efficace pour l'étudiant travaillant seul ou en classe, et qu'il lui donne les moyens et le goût d'approfondir sa connaissance de notre langue, et par là, de notre pays et sa civilisation.
 
 >Les Auteurs
+
+1. **Les astérisques (\*)** signalent des exercices d'un niveau un peu plus difficile.
+
+2. Le **ne explétif** a toujours été employé, mais son usage n'étant pas obligatoire, il a été présenté entre parenthèses.
+
+Exemple : Je crains qu'il (ne) pleuve.
+
+3. Dans les exercices à compléter :
+
+- **trois points** doivent être remplacés par un mot ou une groupe formant une unité sémantique ;
+
+Exemple :
+Je ... ai téléphoné. &rarr; Je **lui** ai téléphoné.
+Ils se sont pas venus ... la neige. &rarr; Ils se sont pas venus **à cause de** la neige.
+Ton gilet est rouge comme ... &rarr; Ton gilet est rouge comme **le mien**.
+
+- **deux groupes de trois points** correspondent à deux unités différentes ;
+
+Exemple :
+Je ... ... donnerai. &rarr; Je **te le** donnerai.
+J'ai vu ... ... étaient là &arr; J'ai vu **ceux qui** étaient là.
+
+- **neuf poins** indiquent que la phrase est à compléter par un nombre de mots indéterminé.
+
+4. La contraction des prépositions "à" et "de" avec l'article défini doit être faite par l'étudiant.
+
+Exemple :
+Nous allons à ... théatre. &raa; Nous allons **au** théatre.
+Il a fermé la porte ... le garage. &raa; Il a fermé la porte **du** garage.
