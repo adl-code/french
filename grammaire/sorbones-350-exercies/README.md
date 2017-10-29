@@ -5,7 +5,7 @@
 # Sommaire #
 - [Préface](#préface)
 - [Introduction](#introduction)
-- [Chapitre premier - Les articles](chaptre01.md)
+- [Chapitre premier - Les articles](chapitre01.md)
 
 # Préface #
 Cinq professeurs, particulièrement qualifiés, des Cours de Civilisation française de la Sorbonne ont préparé avec le plus grand soin ce cahier d'exercices. Lorsqu'ils l'ont jugé parvenu et ces derniers l'ont utilisé dans leurs classes, avant de présenter aux auteurs les observations que leur suggéraient les réactions de nos étudiants étrangers. Ce livre est donc né d'une réflexion théorique et d'une expérience depuis longtemps et encore tout récemment pratiquée sur le terrain. Le résultat me paraît excellent et je crois qu'il fait honneur à notre établissement.
@@ -60,20 +60,26 @@ Exemple : Je crains qu'il (ne) pleuve.
 - **trois points** doivent être remplacés par un mot ou une groupe formant une unité sémantique ;
 
 Exemple :
+
 Je ... ai téléphoné. &rarr; Je **lui** ai téléphoné.
+
 Ils se sont pas venus ... la neige. &rarr; Ils se sont pas venus **à cause de** la neige.
+
 Ton gilet est rouge comme ... &rarr; Ton gilet est rouge comme **le mien**.
 
 - **deux groupes de trois points** correspondent à deux unités différentes ;
 
 Exemple :
+
 Je ... ... donnerai. &rarr; Je **te le** donnerai.
-J'ai vu ... ... étaient là &arr; J'ai vu **ceux qui** étaient là.
+
+J'ai vu ... ... étaient là &rarr; J'ai vu **ceux qui** étaient là.
 
 - **neuf poins** indiquent que la phrase est à compléter par un nombre de mots indéterminé.
 
 4. La contraction des prépositions "à" et "de" avec l'article défini doit être faite par l'étudiant.
 
 Exemple :
-Nous allons à ... théatre. &raa; Nous allons **au** théatre.
-Il a fermé la porte ... le garage. &raa; Il a fermé la porte **du** garage.
+Nous allons à ... théatre. &rarr; Nous allons **au** théatre.
+
+Il a fermé la porte ... le garage. &rarr; Il a fermé la porte **du** garage.
