@@ -31,3 +31,20 @@ et plus loin
 >Professeur émérite à la Sorbonne
 >
 >Directeur des Cours de Civilisation française de la Sorbonne
+
+# Introduction #
+Ce manuel, destiné aux étudiants de niveau moyen des Cours de Civilisation française de la Sorbonne, s'adresse également à tous ceux qui souhaite acquérir les mécanismes de la langue française par une étude systématique de la grammaire.
+
+Une longue expérience de l'enseignement du français aux étrangers nous a démontré la nécessité ainsi que l'efficacité d'une telle étude. Nous avons privilégié les structures les plus courantes, en éliminant les constructions rares, littéraires ou trop complexes, au profit de celles que nous considérons comme indispensables à un niveau d'impression qui n'est plus celui de débutants.
+
+La classification adoptée est une classification traditionnelle : articles, pronoms, adverbes ... Chaque chapitre se présente de la façon suivante : le problème grammatical est étudié dans des exercices qui procèdent du simple au complexe ; vienne en suite des exercices qui synthèse qui permettent à l'étudiant de vérifier ses connaissances. Par exemple, le chapitre intitulé "Les articles" est ainsi composé : 1. Étude des formes et des emplois des trois articles : les exercices opposent l'article indéfini à l'article défini et à l'article partitif. 2. Étude des modifications des articles : dans des phrases négatives et devant l'adjectif au pluriel. 3. Omission de l'article : dans les expressions de quantité, dans les compléments déterminatifs et après la préposition "de". 4. Exercices de révision.
+
+Les chapitres de morphologie précèdent les chapitres de syntaxe, mains ce classement ne constitue pas un impératif pédagogique : en effet, chaque chapitre forme une unité en soi et peut être étudié séparément. Mais il est bien évident que les difficultés grammaticales se recoupent fréquemment ; nous l'avons alors signalé par des renvois. Ainsi, dans le chapitre "L'emploi des temps de l'indicatif", on trouvera, à la suite des exercices concernant l'imparfait, un renvoi au chapitre "L'expression de la condition".
+
+Enfin, un dernier chapitre propose des exercices de révision où les difficultés sont mêlées. L'étudiant, parvenu à la fin du manuel, doit être capable de les reconnaître, puis de les résoudre, sans les points de repère qui le guidaient jusqu'à présent à l'intérieur de chaque chapitre.
+
+Et ce qui concerne le vocabulaire, nous avons veillé à l'utiliser que des termes usuels et appartenant à des domaines variés, en écartant toute familiarité.
+
+Nous souhaitons que ce manuel soit un instrument de travail efficace pour l'étudiant travaillant seul ou en classe, et qu'il lui donne les moyens et le goût d'approfondir sa connaissance de notre langue, et par là, de notre pays et sa civilisation.
+
+>Les Auteurs
