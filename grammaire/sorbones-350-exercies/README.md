@@ -80,6 +80,7 @@ J'ai vu ... ... étaient là &rarr; J'ai vu **ceux qui** étaient là.
 4. La contraction des prépositions "à" et "de" avec l'article défini doit être faite par l'étudiant.
 
 Exemple :
+
 Nous allons à ... théatre. &rarr; Nous allons **au** théatre.
 
 Il a fermé la porte ... le garage. &rarr; Il a fermé la porte **du** garage.
